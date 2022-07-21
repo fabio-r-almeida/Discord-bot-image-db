@@ -1,16 +1,32 @@
 {
   "files": {
     "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.165d5570.js",
+    "main.js": "/static/js/main.4243377a.js",
     "static/js/787.4aeae650.chunk.js": "/static/js/787.4aeae650.chunk.js",
+    "static/media/well-made_mortar_crafting.png": "/static/media/well-made_mortar_crafting.7d1f468f0b7022b9e344.png",
+    "static/media/well-made_grapeshot_crafting.png": "/static/media/well-made_grapeshot_crafting.025bb522e9265955b7d8.png",
+    "static/media/grapeshot_crafting.png": "/static/media/grapeshot_crafting.2d40b5a2555f0e59ffc7.png",
+    "static/media/well-made_cannon_crafting.png": "/static/media/well-made_cannon_crafting.82f07460ba4cdeba870a.png",
+    "static/media/well-made_culverin_crafting.png": "/static/media/well-made_culverin_crafting.5e00e3d09ec0d32c7206.png",
+    "static/media/mortar_crafting.png": "/static/media/mortar_crafting.167447a3498e27aef003.png",
+    "static/media/cannon_crafting.png": "/static/media/cannon_crafting.25e370791550df86bb45.png",
+    "static/media/culverin_crafting.png": "/static/media/culverin_crafting.276e132006db700ae883.png",
+    "static/media/optimal-hwacha-arrow-launcher.png": "/static/media/optimal-hwacha-arrow-launcher.a4014147156420ad62b8.png",
+    "static/media/well-made-grapeshot-cannon.png": "/static/media/well-made-grapeshot-cannon.2d5024308d9ee9fd8fba.png",
+    "static/media/well-made-culverin.png": "/static/media/well-made-culverin.a68eec8bbd6746a4f9ef.png",
+    "static/media/well-made-cannon.png": "/static/media/well-made-cannon.9dd76e5b6943572051d2.png",
+    "static/media/well-made-mortar.png": "/static/media/well-made-mortar.84c0ac7d637a5888fdbe.png",
+    "static/media/optimal-ballista.png": "/static/media/optimal-ballista.49ffcd1832f13fba0afc.png",
+    "static/media/optimal-grapeshot-cannon.png": "/static/media/optimal-grapeshot-cannon.1a4bbb3fafa8de5a60d6.png",
+    "static/media/optimal-mortar.png": "/static/media/optimal-mortar.df643159b7a61677f7c0.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.165d5570.js.map": "/static/js/main.165d5570.js.map",
+    "main.4243377a.js.map": "/static/js/main.4243377a.js.map",
     "787.4aeae650.chunk.js.map": "/static/js/787.4aeae650.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.165d5570.js"
+    "static/js/main.4243377a.js"
   ]
 }
